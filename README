@@ -1,0 +1,18 @@
+PROJECT ALASKA, FREE AND OPEN SOURCE WEB SYSTEM
+
+This is the official development repository for Project Alaska, a free and open source
+web system written in PHP.
+
+The project will remain to be actively maintained and supported, and will
+stay open to everyone for an indefinite amount of time. We kindly
+invite any interested parties to help contribute towards this software's development.
+
+The web system is a 'derived' version of UberCMS. Any existing code has been reused,
+rewritten or removed. The software overall has been worked on to provide a restored,
+functional and extensible platform for everybody to use.
+
+If you use any portion(s) of the source code, please remember to do so
+under the terms of the license (see 'LICENSE' file in repository root).
+
+We would like to extend our thanks to all contributers and supporters
+of this project.
